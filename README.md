@@ -2,7 +2,7 @@
 
 ## Deployment
 
-Demo: 
+Demo: https://pranshukas.github.io/Sample-CV-Webpage/
 
 ![cv](./images/Capture.png)
 
@@ -22,7 +22,7 @@ Demo:
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2021 Jennifer Rosa
+Copyright (c) 2021 Pranshu Kashyap
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
